@@ -69,4 +69,8 @@ button:hover {
 #message {
     display: inline-block;
     width: 20%;
+    font-size: 90%;
+    text-transform: uppercase;
+    font-family: "Balsamiq Sans";
+    color: steelblue;
 }
